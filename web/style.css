@@ -1,0 +1,11 @@
+label{color: rgb(64, 6, 119);}
+body{background-color: rgb(252, 222, 182);}
+h1{color: rgb(179, 137, 218); }
+h2{color: rgb(44, 11, 75);}
+h3{color: rgb(33, 9, 141);}
+p{color: rgb(133, 41, 41);}
+
+#email{color: #af1b8f;}
+.image{ width: 1300px; height: 1300px;}
+
+*{font-size: 20px;}
